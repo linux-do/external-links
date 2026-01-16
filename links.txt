@@ -96,6 +96,7 @@ link.zip
 
 # danger - Dangerous domains (phishing, malware)
 **aff=
+**rewards.bing.com/welcome?
 
 # blocked - Completely blocked domains
 # Add spam and unwanted content domains here
