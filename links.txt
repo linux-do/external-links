@@ -20,6 +20,7 @@ t.me/linux_do_channel
 t.me/idcflare
 t.me/ja_netfilter_group
 github.com/linux-do/*
+*.iana.org
 
 # risky - Potentially risky domains (URL shorteners, etc.)
 bit.ly
