@@ -1,6 +1,12 @@
 # internal - Internal domains (usually empty, user-specific)
 localhost
-127.0.0.1
+0.*.*.*
+10.*.*.*
+127.*.*.*
+169.*.*.*
+172.*.*.*
+192.*.*.*
+*.local
 
 # trusted - Trusted external domains
 *.zhile.io
