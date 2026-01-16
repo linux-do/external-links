@@ -1,6 +1,12 @@
 # internal - Internal domains (usually empty, user-specific)
-localhost
+*.localhost
 127.0.0.1
+::1
+*.example
+*.example.com
+*.example.net
+*.example.org
+*.test
 
 # trusted - Trusted external domains
 *.zhile.io
